@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.pedraverde.plantcare",
+  "appName": "PedraVerde",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

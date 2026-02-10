@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of PedraVerde - Plant Care Tracker",
+  "description": "Um rastreador de plantas intuitivo para gestão manual de rega e adubação.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
